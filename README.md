@@ -74,6 +74,8 @@ cd Cat_Landmarks_Detection
 
 This project makes use of the following resources:
 
+- **Dataset** - [Cat Dataset](https://www.kaggle.com/datasets/crawford/cat-dataset)
+
 - **MobileNetV2** — pretrained on ImageNet, used via `tf.keras.applications`.
   Sandler, M., Howard, A., Zhu, M., Zhmoginov, A., & Chen, L.-C. (2018). *MobileNetV2: Inverted Residuals and Linear Bottlenecks.* CVPR. [arXiv:1801.04381](https://arxiv.org/abs/1801.04381)
 
